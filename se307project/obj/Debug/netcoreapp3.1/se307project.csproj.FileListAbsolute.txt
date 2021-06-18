@@ -1,0 +1,17 @@
+D:\se 307 labs\project307\ProjectTAS307\se307project\bin\Debug\netcoreapp3.1\se307project.exe
+D:\se 307 labs\project307\ProjectTAS307\se307project\bin\Debug\netcoreapp3.1\se307project.deps.json
+D:\se 307 labs\project307\ProjectTAS307\se307project\bin\Debug\netcoreapp3.1\se307project.runtimeconfig.json
+D:\se 307 labs\project307\ProjectTAS307\se307project\bin\Debug\netcoreapp3.1\se307project.runtimeconfig.dev.json
+D:\se 307 labs\project307\ProjectTAS307\se307project\bin\Debug\netcoreapp3.1\se307project.dll
+D:\se 307 labs\project307\ProjectTAS307\se307project\bin\Debug\netcoreapp3.1\se307project.pdb
+D:\se 307 labs\project307\ProjectTAS307\se307project\obj\Debug\netcoreapp3.1\se307project.csprojAssemblyReference.cache
+D:\se 307 labs\project307\ProjectTAS307\se307project\obj\Debug\netcoreapp3.1\se307project.Authentication.resources
+D:\se 307 labs\project307\ProjectTAS307\se307project\obj\Debug\netcoreapp3.1\se307project.Form1.resources
+D:\se 307 labs\project307\ProjectTAS307\se307project\obj\Debug\netcoreapp3.1\se307project.Properties.Resources.resources
+D:\se 307 labs\project307\ProjectTAS307\se307project\obj\Debug\netcoreapp3.1\se307project.csproj.GenerateResource.cache
+D:\se 307 labs\project307\ProjectTAS307\se307project\obj\Debug\netcoreapp3.1\se307project.AssemblyInfoInputs.cache
+D:\se 307 labs\project307\ProjectTAS307\se307project\obj\Debug\netcoreapp3.1\se307project.AssemblyInfo.cs
+D:\se 307 labs\project307\ProjectTAS307\se307project\obj\Debug\netcoreapp3.1\se307project.csproj.CoreCompileInputs.cache
+D:\se 307 labs\project307\ProjectTAS307\se307project\obj\Debug\netcoreapp3.1\se307project.dll
+D:\se 307 labs\project307\ProjectTAS307\se307project\obj\Debug\netcoreapp3.1\se307project.pdb
+D:\se 307 labs\project307\ProjectTAS307\se307project\obj\Debug\netcoreapp3.1\se307project.genruntimeconfig.cache

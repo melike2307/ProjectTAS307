@@ -13,7 +13,7 @@ namespace se307project
         private string destinationPlace;
         private string departurePlace;
         private int tourCapacity;
-        private string tourStatus;
+        private bool tourStatus;
 
         //Setters and Getters
         public int Id { get => id; set => id = value; }
@@ -23,10 +23,10 @@ namespace se307project
         public string DestinationPlace { get => destinationPlace; set => destinationPlace = value; }
         public string DeparturePlace { get => departurePlace; set => departurePlace = value; }
         public int TourCapacity { get => tourCapacity; set => tourCapacity = value; }
-        public string TourStatus { get => tourStatus; set => tourStatus = value; }
+        public bool TourStatus { get => tourStatus; set => tourStatus = value; }
 
         //Parameterized Constructor
-        public Tours(string name, int ıd, string startDate, string finishDate, string destinationPlace, string departurePlace, int tourCapacity, string tourStatus)
+        public Tours(int ıd, string name, string startDate, string finishDate, string destinationPlace, string departurePlace, int tourCapacity, bool tourStatus)
         {
 
             Name = name;

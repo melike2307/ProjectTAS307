@@ -19,14 +19,14 @@ namespace se307project
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form2 frm = new Form2();
+            Form1 frm = new Form1();
             frm.Show();
             this.Hide();
         }
 
         private void label1_Click(object sender, EventArgs e)
         {
-            Form2 frm = new Form2();
+            Form1 frm = new Form1();
             frm.Show();
             this.Hide();
         }
