@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\se 307 labs\\project307\\se307project\\se307project\\se307project.csproj": {}
+    "D:\\se 307 labs\\project307\\ProjectTAS307\\se307project\\se307project.csproj": {}
   },
   "projects": {
-    "D:\\se 307 labs\\project307\\se307project\\se307project\\se307project.csproj": {
+    "D:\\se 307 labs\\project307\\ProjectTAS307\\se307project\\se307project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\se 307 labs\\project307\\se307project\\se307project\\se307project.csproj",
+        "projectUniqueName": "D:\\se 307 labs\\project307\\ProjectTAS307\\se307project\\se307project.csproj",
         "projectName": "se307project",
-        "projectPath": "D:\\se 307 labs\\project307\\se307project\\se307project\\se307project.csproj",
+        "projectPath": "D:\\se 307 labs\\project307\\ProjectTAS307\\se307project\\se307project.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\se 307 labs\\project307\\se307project\\se307project\\obj\\",
+        "outputPath": "D:\\se 307 labs\\project307\\ProjectTAS307\\se307project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
